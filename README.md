@@ -4,11 +4,6 @@ A collection of RenoDX HDR mods for games, created with AI assistance.
 
 ## Mods Included
 
-### Outlast 2 HDR
-- **Status**: Experimental
-- **Features**: HDR tone mapping with hue-preserving expansion
-- **API**: DirectX 11
-- **Installation**: See `outlast2/README.md`
 
 ## Building
 
